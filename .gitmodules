@@ -1,6 +1,6 @@
 [submodule "www/pyrocms"]
 	path = www/pyrocms
-	url = https://github.com/pyrocms/pyrocms.git
+	url = git://github.com/pyrocms/pyrocms.git
 [submodule "puppet"]
 	path = puppet
-	url = https://github.com/llbbl/devops-puppet.git
+	url = git://github.com/llbbl/devops-puppet.git
